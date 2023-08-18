@@ -23,11 +23,11 @@ const audio = document.getElementById("backgroundMusic");
        
 
        if (imageTracker == "i"){
-           image.src = "resources/controlleron.png"
+           image.src = "resources/controlleroff.png"
            imageTracker = "I"
        }
        else {
-           image.src = "resources/controlleroff.png"
+           image.src = "resources/controlleron.png"
            imageTracker = "i"
        }
    }
