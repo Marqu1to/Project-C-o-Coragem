@@ -1,4 +1,4 @@
-## Projeto básico em Inglês sobre "Coragem, o Cão Covarde!"
+## Projeto em Inglês sobre "Coragem, o Cão Covarde!"
 
 ### Utilizando HTML, CSS e Javascript
 
